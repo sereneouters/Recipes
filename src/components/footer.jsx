@@ -2,7 +2,7 @@ function Footer() {
     return <footer className="page-footer  red accent-2">
         <div className="footer-copyright">
             <div className="container">
-            © {new Date().getFullYear()} @SanZirro
+            © {new Date().getFullYear()} @sereneouters
             
             </div>
           </div>
